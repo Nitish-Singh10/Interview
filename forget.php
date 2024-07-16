@@ -85,7 +85,7 @@ require 'PHPMailer-master/src/SMTP.php';
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = "nitishsingh282016@gmail.com";
-    $mail->Password = "jmnz ycpk ysyp erar";
+    $mail->Password = "---- ---- ---- ----"; //you need to have password
     $mail->SMTPSecure = "ssl";
     $mail->Port = 465;
 
